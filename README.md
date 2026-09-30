@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Building scalable backend systems, cloud-native applications, and production-ready software with .NET and Azure.</strong>
+  <strong>Building scalable backend systems, cloud applications, and production-ready software with .NET and Azure.</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Deepak Sharma
@@ -25,6 +25,7 @@ role: Senior Software Engineer
 experience: 6.5+ years
 specialization: .NET Backend & Azure
 currently: GlobalLogic
+
 focus:
   - Backend Engineering
   - Cloud & Distributed Systems
@@ -35,17 +36,17 @@ focus:
 
 I'm a **.NET developer with 6.5+ years of experience** building and maintaining enterprise applications, APIs, integrations, and cloud-based systems.
 
-My core focus is **C#, .NET, ASP.NET Core, Azure, SQL Server, and API development**, with hands-on experience across CI/CD, application modernization, production support, and cloud services.
+My core focus is **C#, .NET, ASP.NET Core, Azure, SQL Server, and API development**, with hands-on experience across CI/CD, application modernization, production support, authentication, observability, and cloud services.
 
-I enjoy understanding how systems work under the hood — from **API design and database performance to authentication, distributed systems, deployments, and observability**.
+I enjoy understanding how systems work under the hood — from **API design and database performance to authentication, distributed systems, deployments, and production troubleshooting**.
 
-Currently, I'm expanding my expertise into **AI engineering**, exploring areas such as **LLMs, RAG, MCP, AI agents, and AI-assisted software development**.
+Currently, I'm expanding my expertise into **AI engineering**, exploring **LLMs, RAG, MCP, AI agents, and AI-assisted software development**.
 
-> I believe good software is not just about writing code — it's about building systems that are maintainable, observable, scalable, and reliable.
+> Good software isn't just about writing code. It's about building systems that are maintainable, observable, scalable, and reliable.
 
 ---
 
-### 🛠️ What I Work With
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -54,8 +55,8 @@ Currently, I'm expanding my expertise into **AI engineering**, exploring areas s
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
     </td>
   </tr>
 
@@ -63,15 +64,14 @@ Currently, I'm expanding my expertise into **AI engineering**, exploring areas s
     <td align="center"><strong>Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_App_Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
       <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_App_Insights-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
       <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_Application_Insights-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><strong>Database</strong></td>
+    <td align="center"><strong>Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -102,18 +102,18 @@ Currently, I'm expanding my expertise into **AI engineering**, exploring areas s
   </tr>
 
   <tr>
-    <td align="center"><strong>Engineering</strong></td>
+    <td align="center"><strong>Architecture</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/CQRS-8B5CF6?style=flat-square" />
       <img src="https://img.shields.io/badge/MediatR-512BD4?style=flat-square" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
+      <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><strong>AI & Learning</strong></td>
+    <td align="center"><strong>AI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" />
       <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
@@ -126,58 +126,61 @@ Currently, I'm expanding my expertise into **AI engineering**, exploring areas s
 
 ---
 
-### 🚀 What I'm Currently Exploring
+## 🚀 Currently Exploring
 
 * 🧠 **AI Engineering** — LLMs, RAG, AI Agents & MCP
-* 🏗️ **System Design** — LLD, HLD & distributed systems
-* ⚡ **.NET 8+** — Modern APIs, performance & architecture
+* 🏗️ **System Design** — LLD, HLD & Distributed Systems
+* ⚡ **Modern .NET** — .NET 8+, performance & architecture
 * ☁️ **Azure Cloud** — Cloud-native application development
-* 🔄 **Application Modernization** — Migrating legacy .NET applications to modern platforms
-* 🤖 **AI-assisted Development** — Using AI tools to improve engineering workflows
+* 🔄 **Application Modernization** — Legacy .NET → modern platforms
+* 🤖 **AI-assisted Development** — AI tools and engineering workflows
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Project
 
-#### 📚 DevNoteStack
+### 📚 DevNoteStack
 
-A developer-focused knowledge platform designed for **learning, revision, and organizing technical concepts**.
+A developer-focused knowledge platform for **learning, revision, and organizing technical concepts**.
 
 **Focus:** .NET • Angular • System Design • DSA • Software Engineering
 
-🔗 [Visit DevNoteStack](https://devnotestack.netlify.app/)
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-Sharma1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepak-Sharma1911&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Sharma1911&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <a href="https://devnotestack.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-DevNoteStack-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-Sharma1911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img
+    src="./assets/github-stats.svg"
+    alt="Deepak's GitHub Stats"
+    width="495"
+  />
+
+<img
+ src="./assets/top-languages.svg"
+ alt="Top Languages"
+ width="420"
+/>
+
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-sharma-49b9a715a">
     <img src="https://img.shields.io/badge/LinkedIn-Deepak_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:itsdeepaksharma19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-itsdeepaksharma19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
