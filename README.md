@@ -155,20 +155,24 @@ A developer-focused knowledge platform for **learning, revision, and organizing 
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="./assets/github-stats.svg"
-    alt="Deepak's GitHub Stats"
-    width="495"
-  />
-
-<img
- src="./assets/top-languages.svg"
- alt="Top Languages"
- width="420"
-/>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img
+        src="./assets/github-stats.svg"
+        alt="Deepak's GitHub Stats"
+        width="495"
+      />
+    </td>
+    <td align="center" valign="top">
+      <img
+        src="./assets/top-languages.svg"
+        alt="Top Languages"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
